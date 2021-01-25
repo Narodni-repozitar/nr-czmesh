@@ -2,3 +2,7 @@
 .idea/
 
 venv/
+
+.eggs/
+
+nr_czmesh.egg-info/
